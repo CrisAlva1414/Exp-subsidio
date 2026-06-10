@@ -1,0 +1,13 @@
+edad,probabilidad_pareja_pct,probabilidad_hijos_pct,personas_hogar_promedio,fuente_principal,calidad_fuente,nota,fecha_actualizacion
+22,20,5,1.2,INE / CASEN 2022,A,Inicio vida laboral ICI. Prob pareja = estabilidad de pareja formal/convivencia. Fuente: CASEN 2022 tablas de jefatura hogar y estado civil por edad.,2025-06-01
+24,30,10,1.4,INE / CASEN 2022,A,,2025-06-01
+26,45,15,1.7,INE / CASEN 2022,A,,2025-06-01
+28,58,25,2.0,INE / CASEN 2022,A,,2025-06-01
+30,65,40,2.4,INE / CASEN 2022,A,,2025-06-01
+32,70,55,2.8,INE / CASEN 2022,A,,2025-06-01
+35,72,65,3.0,INE / CASEN 2022,A,,2025-06-01
+38,73,72,3.1,INE / CASEN 2022,A,,2025-06-01
+40,73,75,3.1,INE / CASEN 2022,A,Promedio hogar chileno ~2.7-3.1 personas (INE Censo 2017/CASEN 2022). Estabilización.,2025-06-01
+45,71,73,2.9,INE / CASEN 2022,A,Hijos comienzan a salir del hogar a esta edad.,2025-06-01
+50,69,68,2.5,INE / CASEN 2022,A,,2025-06-01
+55,67,58,2.2,INE / CASEN 2022,A,,2025-06-01
